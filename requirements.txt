@@ -6,7 +6,7 @@ langchain-huggingface==0.3.0
 langchain-groq==0.3.5
 faiss-cpu==1.11.0
 sentence-transformers==5.0.0
-transformers==4.53.1
+transformers==4.40.2
 huggingface-hub==0.33.2
 pypdf==5.7.0
 torch==2.2.2
@@ -42,5 +42,6 @@ jinja2==3.1.6
 packaging==24.2
 protobuf==6.31.1
 sniffio==1.3.1
+
 
 
